@@ -28,3 +28,6 @@
 - [Java Tutorials](https://www.youtube.com/playlist?list=PLWKjhJtqVAbnRT_hue-3zyiuIYj0OlpyG)
 - [SQL Tutorial - Full Database Course for Beginners](https://www.youtube.com/watch?v=HXV3zeQKqGY)
 - [krshng's Website Bookmarks](https://github.com/krshng-ohkay/ws-bm)
+
+### Best Courses (apparently):
+- [Top 5 (Power Couple on YouTube)](https://www.youtube.com/watch?v=dqlO6_5rZSQ)
