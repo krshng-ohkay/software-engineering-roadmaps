@@ -27,6 +27,7 @@
 - [Computer Science Concepts](https://www.youtube.com/playlist?list=PLWKjhJtqVAbn5emQ3RRG8gEBqkhf_5vxD)
 - [Java Tutorials](https://www.youtube.com/playlist?list=PLWKjhJtqVAbnRT_hue-3zyiuIYj0OlpyG)
 - [SQL Tutorial - Full Database Course for Beginners](https://www.youtube.com/watch?v=HXV3zeQKqGY)
+- [72 Software Development Terms Explained](https://www.youtube.com/watch?v=rmW7Q9edq_U)
 - [krshng's Website Bookmarks](https://github.com/krshng-ohkay/ws-bm)
 
 ### Best Courses (apparently):
