@@ -32,3 +32,7 @@
 
 ### Best Courses (apparently):
 - [Top 5 (Power Couple on YouTube)](https://www.youtube.com/watch?v=dqlO6_5rZSQ)
+
+### Project-based:
+- [3 Types of Projects That Will Make You a Programmer](https://www.youtube.com/watch?v=RYE0QQKJI9o)
+- [5 Coding Projects (from beginner to advanced)](https://www.youtube.com/watch?v=n2B-FClr5rA)
